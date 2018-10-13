@@ -1,0 +1,13 @@
+{
+    "name": "akai/magento1-os-patches",
+    "type": "magento-module",
+    "description": "Magento open source 1.x patches",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "map": [
+            ["patches", "magento1-os-patches"]
+        ]
+    }
+}

@@ -1,4 +1,5 @@
 {
     "name": "akai/magento1-os-patches",
-    "description": "Magento open source 1.x patches"
+    "description": "Magento open source 1.x patches",
+    "license": "OSL-3.0"
 }

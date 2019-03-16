@@ -3,6 +3,7 @@ Source: https://magento.com/tech-resources/download
 
 ## Patches List
 
+* [Admin Dashboard Charts Patch](patches/Admin-Dashboard-Charts-Patch)
 * [Authorize.Net Direct Post Signature Key Patch](patches/Authorizenet-Direct-Post-Signature-Key-Patch)
 * [SUPEE-10975](patches/SUPEE-10975)
 * [SUPEE-10888](patches/SUPEE-10888)

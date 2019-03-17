@@ -1,5 +1,4 @@
-Prevents repeated SOAP index page call issue from causing customers to only see the Magento installation page - Added Aug 12, 2014
-
+Prevents repeated SOAP index page call issue from causing customers to only see the Magento installation page - Added Aug 12, 2014  
 Note: Please use SUPEE-6788 instead of this one.
 
 Note: please find details on this patch here:

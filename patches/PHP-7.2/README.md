@@ -1,4 +1,5 @@
-This patch provides compatibility with PHP 7.2 for core Magento. Make sure to test thoroughly before updating production sites as extensions or custom code might require additional modifications for PHP 7.2 compatibility.
+This patch provides compatibility with PHP 7.2 for core Magento.  
+Make sure to test thoroughly before updating production sites as extensions or custom code might require additional modifications for PHP 7.2 compatibility.
 
 This patch requires previous security patches to be applied prior to installation:
 

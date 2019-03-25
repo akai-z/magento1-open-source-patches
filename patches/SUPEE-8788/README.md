@@ -1,7 +1,6 @@
 This patch provides protection against several types of security-related issues, including remote code execution, information leaks and cross-site scripting. - Added Oct 11, 2016
 
-More information about the individual issues addressed by this patch is available in the patch details:  
-https://magento.com/security/patches/supee-8788
+More information about the individual issues addressed by this patch is available in the patch [details](https://magento.com/security/patches/supee-8788).
 
 
 NOTE: if you have installed version 1 of the patch, it is recommended to do the following:

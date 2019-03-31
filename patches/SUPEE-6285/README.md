@@ -6,3 +6,5 @@ More information on reverting and applying patches is available [here](http://de
 Make sure to install SUPEE-5994 patch first.  
 Magento Community Edition version 1.9.2 already includes the latest version of the patch.  
 More information about the individual issues addressed by this patch is available in the patch [release notes](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html#magento/patch-releases-2015.html).
+
+More details about this patch could be found [here](https://magento.com/security/patches/supee-6285).

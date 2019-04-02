@@ -9,3 +9,6 @@ Revert SUPEE-8788 v1/
 Revert SUPEE-1533 (if installed)  
 Install SUPEE-3941 (if not installed yet)  
 Install SUPEE-8788 v2
+
+More details about this patch could be found [here](https://magento.com/security/patches/supee-8788).  
+More details about the patch issues could be found [here](https://magento.stackexchange.com/questions/140550/security-patch-supee-8788-possible-problems).

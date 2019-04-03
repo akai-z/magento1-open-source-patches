@@ -1,5 +1,5 @@
-Magento Open Source 1.x Patches.  
-Source: https://magento.com/tech-resources/download
+This is a Magento Open Source 1.x patches mirror repository.  
+The original source could be found [here](https://magento.com/tech-resources/download).
 
 ## Patches List
 

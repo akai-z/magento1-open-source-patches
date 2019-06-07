@@ -1,6 +1,9 @@
 This is a Magento Open Source 1.x patches mirror repository.  
 The original source could be found [here](https://magento.com/tech-resources/download).
 
+Or you could obtain the patches, their checksums  
+and the Magento versions they support, using the method explained [here](https://gist.github.com/piotrekkaminski/9bc45ec84028611d621e).
+
 ## Patches List
 
 * [SUPEE-11086](patches/SUPEE-11086)

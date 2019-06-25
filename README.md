@@ -7,6 +7,7 @@ More details about the links and how to access them could be found [here](https:
 
 ## Patches List
 
+* [SUPEE-11155](patches/SUPEE-11155)
 * [SUPEE-11086](patches/SUPEE-11086)
 * [Admin Dashboard Charts Patch](patches/Admin-Dashboard-Charts-Patch)
 * [Authorize.Net Direct Post Signature Key Patch](patches/Authorizenet-Direct-Post-Signature-Key-Patch)

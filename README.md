@@ -3,7 +3,7 @@ The original source could be found [here](https://magento.com/tech-resources/dow
 
 Or you could obtain the patches, their checksums  
 and the Magento versions they support from this [link](https://www.magentocommerce.com/products/downloads/info/filter/type/ce-patch), and also this [link](https://www.magentocommerce.com/products/downloads/info/filter/type/other).  
-More details about the links and how to access them could be found [here](https://gist.github.com/piotrekkaminski/9bc45ec84028611d621e).
+More details about the links and how they could be accessed could be found [here](https://gist.github.com/piotrekkaminski/9bc45ec84028611d621e).
 
 ## Patches List
 

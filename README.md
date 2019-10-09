@@ -7,6 +7,7 @@ More details about the links and how they could be accessed could be found [here
 
 ## Patches List
 
+* [SUPEE-11219](patches/SUPEE-11219)
 * [SUPEE-11155](patches/SUPEE-11155)
 * [SUPEE-11086](patches/SUPEE-11086)
 * [Admin Dashboard Charts Patch](patches/Admin-Dashboard-Charts-Patch)

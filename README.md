@@ -3,7 +3,7 @@ The original (official) source could be found [here](https://magento.com/tech-re
 
 Alternatively, the patch files, their checksums  
 and the Magento versions they support could be obtained from this [link](https://www.magentocommerce.com/products/downloads/info/filter/type/ce-patch), and also this [one](https://www.magentocommerce.com/products/downloads/info/filter/type/other).  
-More details about this alternative approach could be found [here](https://gist.github.com/piotrekkaminski/9bc45ec84028611d621e).
+More details about this alternative method could be found [here](https://gist.github.com/piotrekkaminski/9bc45ec84028611d621e).
 
 ## Patches List
 

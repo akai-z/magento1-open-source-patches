@@ -7,6 +7,7 @@ More details about this alternative method could be found [here](https://gist.gi
 
 ## Patches List
 
+* [SUPEE-11314](patches/SUPEE-11314)
 * [SUPEE-11295](patches/SUPEE-11295)
 * [SUPEE-11219](patches/SUPEE-11219)
 * [SUPEE-11155](patches/SUPEE-11155)

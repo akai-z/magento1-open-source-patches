@@ -1,6 +1,6 @@
 This is a Magento Open Source 1.x patches mirror repository.
 
-The original (official) source and patches checksums could be found [here](https://www.magentocommerce.com/products/downloads/info/filter/type/ce-patch). (Access and usage instructions could be found [here](https://gist.github.com/piotrekkaminski/9bc45ec84028611d621e).)  
+The original (official) source could be found [here](https://www.magentocommerce.com/products/downloads/info/filter/type/ce-patch). (Access and usage instructions could be found [here](https://gist.github.com/piotrekkaminski/9bc45ec84028611d621e).)  
 (Some additional patches could be found [here](https://www.magentocommerce.com/products/downloads/info/filter/type/other).)
 
 ## Patches List

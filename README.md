@@ -12,7 +12,7 @@ The original (official) source could be found [here](https://www.magentocommerce
 * [SUPEE-11219](patches/SUPEE-11219)
 * [SUPEE-11155](patches/SUPEE-11155)
 * [SUPEE-11086](patches/SUPEE-11086)
-* [Admin Dashboard Charts Patch](patches/Admin-Dashboard-Charts-Patch)
+* [Admin Dashboard Charts patch](patches/Admin-Dashboard-Charts-patch)
 * [Authorize.Net Direct Post Signature Key patch](patches/Authorizenet-Direct-Post-Signature-Key-patch)
 * [SUPEE-10975](patches/SUPEE-10975)
 * [SUPEE-10888](patches/SUPEE-10888)
